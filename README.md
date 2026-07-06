@@ -33,3 +33,5 @@ ISO 22301:2019 | NIST CSF | ISO 27001:2022 | HIPAA | PCI DSS v4.0
 
 ## Author
 Ninad Patil — GRC/Security Compliance Portfolio Project
+
+This project is part of a two-project GRC portfolio for NovaCare AI. See also: [Novacare AI GRC Program] (https://github.com/ninadpatil-22/Novacare-AI-GRC-Program)
